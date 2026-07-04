@@ -1,19 +1,54 @@
-# AutoCare-Hub
-A professional Java application for managing vehicle maintenance and service records.
-🚗 AutoCare Hub
+# 🚗 AutoCare Hub
 
-A modern Java application designed to help vehicle owners and service centers manage maintenance schedules, repair history, and service reminders efficiently.
+## 📖 Overview
 
-✨ Features
-Secure Login
-Vehicle Management
-Maintenance Tracking
-Service History
-Notifications
-Reports
-🛠 Technologies
-Java
-Object-Oriented Programming
-MySQL
-Git
-GitHub
+AutoCare Hub is a Java-based application that helps users manage their vehicles, maintenance schedules, and service history in an organized and efficient way.
+
+---
+
+## ✨ Features
+
+- 🔐 User Login & Registration
+- 🚘 Vehicle Management
+- 🔧 Maintenance Scheduling
+- 📅 Service History
+- 🔔 Maintenance Reminders
+- 📊 Reports & Statistics
+
+---
+
+## 🛠️ Technologies
+
+- Java
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+- MySQL (Coming Soon)
+
+---
+
+## 📂 Project Structure
+
+```
+AutoCare-Hub
+│
+├── src
+├── docs
+├── database
+├── images
+├── README.md
+└── LICENSE
+```
+
+---
+
+## 🎯 Project Goal
+
+The goal of this project is to build a professional vehicle maintenance management system while improving Java programming skills and software engineering practices.
+
+---
+
+## 👨‍💻 Author
+
+**Jamil Abu Ghalion**
+
+Computer Science Student
